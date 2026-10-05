@@ -1,0 +1,53 @@
+body {
+  display: flex;
+  margin: 20px;
+  text-align: center;
+	flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0f2fe;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 0.5rem;
+  border-style: none;
+  background-color: #dc2626;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+
+nav {
+	text-align: center;
+	color: blue;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+footer {
+	margin-bottom: 20px;
+	margin-top: 150px;
+}
+
+.i-will-sue {
+	margin-top: 20px;
+}
+
+.about {
+	margin-bottom: 40px;
+	margin-top: 40px;
+	margin: 40px;
+	border: 2px solid black;
+}
+
+.just-give-me-my-boba {
+	margin-bottom: 40px;
+	margin-top: 40px;
+	margin: 40px;
+	border: 2px solid black;
+	width: 200px;
+	height: 200px;
+	align-content: center;
+}
